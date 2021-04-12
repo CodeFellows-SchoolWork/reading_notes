@@ -1,6 +1,6 @@
 ## This Is My New Reading Notes Repo
 
--[Class 1](1_Set_up_your_accounts)
+-[Class 1](1_Set_up_your_accounts.md)
 -[Class 2]
 -[Class 3]
 -[Class 4]
