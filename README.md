@@ -8,6 +8,6 @@
 -[Class 6](6_Computer_Architecture_and_Logic.md)
 -[Class 6b](6b_Dynamic_web_pages_with_JavaScript.md)
 -[Class 7](7_Programming_with_JavaScript.md)
--[Class 8]
+-[Class 8](8_Operators_and_Loops.md)
 -[Class 9]
 -[Class 10]
