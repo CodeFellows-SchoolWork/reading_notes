@@ -16,7 +16,7 @@ Coding 102!
  +
 
 Coding 201!  
-+
+[Class 1](201/class-01.md)  
 +
 +
 +
