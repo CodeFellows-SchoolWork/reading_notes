@@ -4,6 +4,7 @@
 
 ## **About Me!**
 <!-- (complete latter) -->
+[Journal entry's](journal/201-journal.md)  
 
 Coding 102!  
  [Set up your accounts](1_Set_up_your_accounts.md)  
@@ -17,7 +18,7 @@ Coding 102!
 
 Coding 201!  
 [Class 1](201/class-01.md)  
-+
+[Class 2](201/class-02.md)  
 +
 +
 +
