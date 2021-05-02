@@ -19,7 +19,7 @@ Coding 102!
 Coding 201!  
 [Class 1](201/class-01.md)  
 [Class 2](201/class-02.md)  
-+
+[Class 3](201/class-3.md)
 +
 +
 +
