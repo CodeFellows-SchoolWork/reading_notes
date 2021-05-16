@@ -13,7 +13,7 @@ Let's say you have three images,
 3. An Image With Animation.  
 >Do you know what image type to use in each of those situations?  
 You will want to use a JPEG file when using images that don't have sharp lines because when you compress a file to make it as small as posable to save data space,  
-A JPEG file will blend surrounding colors to achieve this,  
+A JPEG file will blend surrounding colours to achieve this,  
 This is why JPEG is great for images that don't have ridged structure that requires sharp lines and contrast.  
-If you do have an image that has structure and ridged shape that needs sharp lines your best choice of image file to use is PNG because when you compress the file to save space it achieves this without blending colors like with JPEG,  
-If you want an image that changes color or has some other type of animation affects than GIF is what you want to use.
+If you do have an image that has structure and ridged shape that needs sharp lines your best choice of image file to use is PNG because when you compress the file to save space it achieves this without blending colours like with JPEG,  
+If you want an image that changes colour or has some other type of animation affects than GIF is what you want to use.
