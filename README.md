@@ -26,7 +26,9 @@ Coding 201!
 [Class 7](201/class-07.md)  
 [Class 8](201/class-08.md)  
 [Class 9](201/class-09.md)  
-[Class 10](201/class-10.md)
+[Class 10](201/class-10.md)  
+[Class 11](201/class-11.md)  
+[Class 12](201/class-12.md)
 
 +
 +
