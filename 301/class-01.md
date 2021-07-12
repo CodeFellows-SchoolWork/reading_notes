@@ -37,12 +37,12 @@ A Component should not need another component to work as they should be designed
 
 ### **What is props short for?**
 
->
+>Props is a short hand way of saying properties,
 
 ### **How are props used in React?**
 
->
+>Props can be used like passing arguments to a function,
 
 ### **What is the flow of props?**
 
->
+>One way is the flow of props in react so a 
