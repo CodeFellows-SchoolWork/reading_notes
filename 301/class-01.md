@@ -15,18 +15,23 @@ It continuously does the same thing but the results are always different as you 
 
 #### Component Characteristics Are-  
 
-> **Reusability**  
-This is because usually a component is written like a mathematic formula it cares more about the process of steps then the information used or displayed,  
-**Replaceable**  
+> **Reusability**   
+This is because usually a component is written like a mathematic formula it cares more about the process of steps then the information used or displayed,
+
+> **Replaceable**    
 Once it has done it's job the component can be replaced with a different component,  
 This makes things feel and flow much better and creates a better user experience,
-**Not context specific**  
+
+> **Not context specific**   
 A component is designed to work in different environment for instance a Web App or a Mobile App,
-**Extensible**  
+
+> **Extensible**    
 A Component can be used within other components to add more features and function,
-**Encapsulated**  
+
+> **Encapsulated**   
 A Component encapsulates the process and only displays the desired output, Meaning you can use the functional properties of a component but you can't see how it's being generated,
-**Independent**
+
+> **Independent**    
 A Component should not need another component to work as they should be designed to be used as a complete solution.
 
 ### **What are the advantages of using component based architecture?**
@@ -45,4 +50,4 @@ A Component should not need another component to work as they should be designed
 
 ### **What is the flow of props?**
 
->One way is the flow of props in react so a 
+>One way is the flow of props in react so a Parent -> Child.
