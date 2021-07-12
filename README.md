@@ -6,7 +6,8 @@
 <!-- (complete latter) -->
 [Journal entry's](journal/201-journal.md)  
 
-Coding 102!  
+## Coding 102!
+
  [Set up your accounts](1_Set_up_your_accounts.md)  
  [The coders computer](2_The_Coder's_Computer.md)  
  +
@@ -16,7 +17,8 @@ Coding 102!
  +
  +
 
-Coding 201!  
+## Coding 201!
+
 [Class 1](201/class-01.md)  
 [Class 2](201/class-02.md)  
 [Class 3](201/class-3.md)  
@@ -30,8 +32,9 @@ Coding 201!
 [Class 11](201/class-11.md)  
 [Class 12](201/class-12.md)
 
-+
-+
+## Coding 301!
+
+[Class 1](301/class-01.md)
 +
 +
 +
