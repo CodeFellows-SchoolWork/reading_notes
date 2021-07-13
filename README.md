@@ -34,8 +34,9 @@
 
 ## Coding 301!
 
-[Class 1](301/class-01.md)
-+
+[Class 1](301/class-01.md)  
+[Class 2](301/class-02.md)
+
 +
 +
 +
