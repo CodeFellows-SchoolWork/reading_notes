@@ -38,7 +38,12 @@
 [Class 2](301/class-02.md)  
 [Class 3](301/class-03.md)  
 [Class 4](301/class-04.md)  
-[Class 5](301/class-05.md)
-+
-+
-+
+[Class 5](301/class-05.md)  
+[Class 6](301/class-06.md)  
+[Class 7](301/class-07.md)  
+[Class 8](301/class-08.md)  
+[Class 9](301/class-09.md)  
+[Class 10](301/class-10.md)  
+[Class 11](301/class-11.md)  
+[Class 12](301/class-12.md)  
+
